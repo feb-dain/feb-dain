@@ -9,7 +9,6 @@
   <img alt="javascript" src="https://img.shields.io/badge/-Javascript-0093D5?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="jquery" src="https://img.shields.io/badge/-JQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
   <img alt="github" src="https://img.shields.io/badge/-Github-323330?style=flat-square&logo=github&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="notion" src="https://img.shields.io/badge/-Notion-231F20?style=flat-square&logo=notion&logoColor=white" />
   <img alt="photoshop" src="https://img.shields.io/badge/-Photoshop-34A7C1?style=flat-square&logo=adobe-photoshop&logoColor=white" />
@@ -22,6 +21,7 @@
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="typescript" src="https://img.shields.io/badge/Typescript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="node js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 <br>
 <h3>📌 Portfolio</h3>
