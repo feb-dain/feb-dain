@@ -1,4 +1,4 @@
-<h1>😎 Hi! I'm Dain.</h1>
+<h1><img src="https://slackmojis.com/emojis/6016-meow_coffee/download" width="30"> Hi! I'm Dain.</h1>
 
 
 <p>Welcome to my page! </br> I'm UI/UX designer and Front-end developer from South Korea, currently living in Seoul. </p>
