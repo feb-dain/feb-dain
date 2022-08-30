@@ -1,7 +1,7 @@
 <h1>Hi! I'm Dain. &nbsp; <img src="https://slackmojis.com/emojis/6016-meow_coffee/download" width="30"></h1>
 
 
-<p>Welcome to my page! </br> I'm UI/UX designer and Front-end developer from South Korea, currently living in Seoul. </p>
+<p>Welcome to my page! </br> I'm UI/UX designer and Front-end developer, currently living in Seoul, South Korea. </p>
 <h3>✨ My skills</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
