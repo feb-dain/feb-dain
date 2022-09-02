@@ -15,7 +15,6 @@
   <img alt="illustrator" src="https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" />
   <img alt="adobe xd" src="https://img.shields.io/badge/-Adobe XD-8D1F89?style=flat-square&logo=adobe-xd&logoColor=white" />
 </p>
-<img src="https://raw.githubusercontent.com/feb-dain/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
 
 <h3>📚 Studying...</h3>
 <p>
