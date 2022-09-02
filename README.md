@@ -16,6 +16,7 @@
   <img alt="illustrator" src="https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" />
   <img alt="adobe xd" src="https://img.shields.io/badge/-Adobe XD-8D1F89?style=flat-square&logo=adobe-xd&logoColor=white" />
 </p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feb-dain&hide=TeX&layout=compact)
 
 <h3>📚 I'm currently learning...</h3>
 <p>
@@ -40,5 +41,3 @@
 <a href="mailto:feb.dain@gmail.com" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/-gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </p></a>
 </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feb-dain&hide=TeX&layout=compact)
