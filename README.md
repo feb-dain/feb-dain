@@ -25,7 +25,7 @@
 </p>
 <br>
 <h3>📌 Portfolio</h3>
-<a href="https://feb-dain.github.io/portfolio"><strong>https://feb-dain.github.io/portfolio</strong></a>
+<a href="https://feb-dain.github.io/portfolio/"><strong>https://feb-dain.github.io/portfolio/</strong></a>
 <br>
 <br>
 <br>
