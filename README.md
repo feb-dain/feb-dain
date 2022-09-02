@@ -1,7 +1,6 @@
 <h1>Hi! I'm Dain. &nbsp; <img src="https://slackmojis.com/emojis/6016-meow_coffee/download" width="30"></h1>
 
 <p>Welcome to my page! </br> I'm UI/UX designer and Front-end developer, currently living in Seoul, South Korea. </p>
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
 
 <h3>✨ My skills</h3>
 <p>
@@ -16,6 +15,8 @@
   <img alt="illustrator" src="https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" />
   <img alt="adobe xd" src="https://img.shields.io/badge/-Adobe XD-8D1F89?style=flat-square&logo=adobe-xd&logoColor=white" />
 </p>
+<img src="https://raw.githubusercontent.com/feb-dain/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+
 <h3>📚 Studying...</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
