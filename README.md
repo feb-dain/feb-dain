@@ -42,3 +42,7 @@
 <a href="mailto:feb.dain@gmail.com" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/-gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </p></a>
 </p>
+
+<br>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=feb-dain.feb-dain)
