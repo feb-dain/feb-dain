@@ -32,7 +32,7 @@
 <br>
 
 ------------
-<h3>Where to find me</h3>
+<h3>Connect with me</h3>
 <p>
 <a href="https://github.com/feb-dain" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://twitter.com/annyeonghihallo" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
