@@ -16,7 +16,9 @@
   <img alt="illustrator" src="https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" />
   <img alt="adobe xd" src="https://img.shields.io/badge/-Adobe XD-8D1F89?style=flat-square&logo=adobe-xd&logoColor=white" />
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feb-dain&hide=TeX&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feb-dain)
+
 <h3>📚 I'm currently learning...</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
