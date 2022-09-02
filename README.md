@@ -17,7 +17,6 @@
   <img alt="adobe xd" src="https://img.shields.io/badge/-Adobe XD-8D1F89?style=flat-square&logo=adobe-xd&logoColor=white" />
 </p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feb-dain&hide=TeX&layout=compact)
-
 <h3>📚 I'm currently learning...</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
