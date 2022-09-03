@@ -7,7 +7,7 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-41BF47?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Scss" src="https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="javascript" src="https://img.shields.io/badge/-Javascript-0093D5?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-0093D5?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="jquery" src="https://img.shields.io/badge/-JQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
   <img alt="github" src="https://img.shields.io/badge/-Github-323330?style=flat-square&logo=github&logoColor=white" />
   <img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
@@ -22,7 +22,7 @@
 <h3>📚 I'm currently learning...</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="typescript" src="https://img.shields.io/badge/Typescript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="next js" src="https://img.shields.io/badge/Next.js-be0000?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="node js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
