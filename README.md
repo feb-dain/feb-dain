@@ -10,6 +10,7 @@
   <img alt="Scss" src="https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-0093D5?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="jquery" src="https://img.shields.io/badge/-JQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
+  <br>
   <img alt="github" src="https://img.shields.io/badge/-Github-323330?style=flat-square&logo=github&logoColor=white" />
   <img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="notion" src="https://img.shields.io/badge/-Notion-231F20?style=flat-square&logo=notion&logoColor=white" />
