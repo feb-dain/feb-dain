@@ -16,6 +16,7 @@
   <img alt="photoshop" src="https://img.shields.io/badge/-Photoshop-34A7C1?style=flat-square&logo=adobe-photoshop&logoColor=white" />
   <img alt="illustrator" src="https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" />
   <img alt="adobe xd" src="https://img.shields.io/badge/-Adobe XD-8D1F89?style=flat-square&logo=adobe-xd&logoColor=white" />
+  <img alt="mark down" src="https://img.shields.io/badge/-Markdown-102C53?style=flat-square&logo=markdown&logoColor=white" />
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feb-dain)
