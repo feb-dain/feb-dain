@@ -2,7 +2,7 @@
 
 <p>Welcome to my page! </br> I'm UI/UX designer and Front-end developer, currently living in Seoul, South Korea. </p>
 
-<h3>✨ My skills </h3>
+<h3>✨ My skills</h3>
 <div>
   <img alt="react" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
