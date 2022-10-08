@@ -36,7 +36,6 @@
 <h3>Connect with me</h3>
 <div>
 <a href="https://feb-dain.github.io/" target="_blank"><img alt="Github Blog" src="https://img.shields.io/badge/Blog-%2312100E.svg?&style=for-the-badge&logo=GitHub&logoColor=white" />
-<a href="https://twitter.com/annyeonghihallo" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 <a href="https://www.linkedin.com/in/dain-lee-a4b274210" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 <a href="mailto:feb.dain@gmail.com" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/-gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </div>
