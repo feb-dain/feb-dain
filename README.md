@@ -2,7 +2,8 @@
 <h3>✨ My skills</h3>
 <div>
   <img alt="react" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/styled components-8A2BE2?style=flat-square&logo=styled-components&logoColor=white"/>
+  <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+  <img src="https://img.shields.io/badge/emotion-c868bc?style=flat-square&logo=emotion&logoColor=white"/>
   <br />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-41BF47?style=flat-square&logo=css3&logoColor=white" />
