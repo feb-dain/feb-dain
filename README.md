@@ -13,9 +13,6 @@
   <img alt="storybook" src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/>
 </div>
 <br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feb-dain)
-
 <br>
 <br>
 
